@@ -1,7 +1,7 @@
 //// Current Day and Time in header ////
 
 let currentDayEl = $('#currentTime')
-currentDayEl.text(moment().format('MM/DD/YYYY'))
+currentDayEl.text(moment().format('LLL'))
 let timeEventEl = $('#timeBlocks')
 var currentHour = parseInt(moment().format("H"));
 

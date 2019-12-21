@@ -16,8 +16,10 @@ JQuery was used as well as moment.js. The moment.js code was used for keeping th
 
 ![IndexPage](resources/interface.PNG)
 ![DataInput](resources/addingevents.PNG)
+![HoursColored](resources/coloredhours.PNG)
 
 
 ## Credits
 DCode [https://www.youtube.com/channel/UCjX0FtIZBBVD3YoCcxnDC4g]
 W3Schools [https://www.w3schools.com/jquery/]
+Help also thanks to Spencer Bangerter, and Matthew Grimes. 
