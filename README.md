@@ -1,5 +1,7 @@
 ## Interactive Day Planner 
 
+https://westonbmeier.github.io/reallycooldayplanner5/
+
 This is a dynamic and interactive day planner to schedule out your work day from 9 AM to 5 PM. 
 There are hours displayed on the left with a text input field in the middle to input tasks and events throughout the work day. 
 The save button on the right side will save the text input value to the local storage and remain if page is closed or refreshed. 
